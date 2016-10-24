@@ -1,1 +1,2 @@
 Hellotouch fileA.txt!
+GMIT
